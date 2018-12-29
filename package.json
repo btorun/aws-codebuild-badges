@@ -1,0 +1,19 @@
+{
+    "name": "aws-codebuild-badges",
+    "version": "1.0.0",
+    "description": "Generated dynamic badges for AWS CodeBuild",
+    "main": "index.js",
+    "scripts": {
+        "lint:js": "jshint *.js",
+        "zip": "bestzip index.zip *.js badges/*",
+        "build": "npm run lint:js -s && npm run zip -s"
+    },
+    "author": "Baturalp Torun",
+    "license": "MIT",
+    "dependencies": {
+        "jshint": "^2.9.7",
+        "bestzip": "^2.1.2"
+    },
+    "repository": "git@github.com:btorun/aws-codebuild-badges.git",
+    "homepage": "https://github.com/btorun/aws-codebuild-badges"
+}
