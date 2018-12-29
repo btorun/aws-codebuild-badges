@@ -1,5 +1,5 @@
 # aws-codebuild-badges
-![Build Status](https://api.travis-ci.org/btorun/aws-codebuild-badges.svg?branch=master)
+[![Build Status](https://api.travis-ci.org/btorun/aws-codebuild-badges.svg?branch=master)](https://travis-ci.org/btorun/aws-codebuild-badges)
 ## Introduction
 AWS CodeBuild already has badges for builds however this sample code is helpful to learn the basics of AWS Lambda, CodeBuild & CloudWatch.
 Adapted from [jSherz's code](https://github.com/jSherz/codebuild-codepipeline-badges)
