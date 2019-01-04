@@ -6,6 +6,7 @@ exports.handler = (event, context, callback) => {
     const bucket = process.env.BUCKET;
     if (!bucket || bucket == '') {
         callback('"BUCKET" env variable is not set.', null);
+        return;
     }
     console.log(event);
     console.log(`Using s3 bucket=${bucket}`);
