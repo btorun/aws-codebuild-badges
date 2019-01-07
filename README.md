@@ -1,5 +1,5 @@
 # aws-codebuild-badges
-[![Build Status](https://api.travis-ci.org/btorun/aws-codebuild-badges.svg?branch=master)](https://travis-ci.org/btorun/aws-codebuild-badges)
+[![Build Status](https://api.travis-ci.org/btorun/aws-codebuild-badges.svg?branch=master)](https://travis-ci.org/btorun/aws-codebuild-badges) [![Dependencies](https://david-dm.org/btorun/aws-codebuild-badges.svg)](https://david-dm.org/btorun/aws-codebuild-badges) [![Dev Dependencies](https://david-dm.org/btorun/aws-codebuild-badges/dev-status.svg)](https://david-dm.org/btorun/aws-codebuild-badges?type=dev)
 ## Introduction
 AWS CodeBuild already has badges for builds however this sample code is helpful to learn the basics of AWS Lambda, CodeBuild & CloudWatch.
 Adapted from [jSherz's code](https://github.com/jSherz/codebuild-codepipeline-badges)
