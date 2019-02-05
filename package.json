@@ -11,7 +11,7 @@
     "author": "Baturalp Torun",
     "license": "MIT",
     "dependencies": {
-        "jshint": "^2.9.7",
+        "jshint": "^2.10.0",
         "bestzip": "^2.1.2"
     },
     "devDependencies": {
