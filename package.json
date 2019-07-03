@@ -15,7 +15,7 @@
         "bestzip": "^2.1.4"
     },
     "devDependencies": {
-        "aws-sdk": "^2.484.0"
+        "aws-sdk": "^2.487.0"
     },
     "repository": "git@github.com:btorun/aws-codebuild-badges.git",
     "homepage": "https://github.com/btorun/aws-codebuild-badges"
