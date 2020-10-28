@@ -12,7 +12,7 @@
     "license": "MIT",
     "dependencies": {
         "jshint": "^2.10.2",
-        "bestzip": "^2.1.5"
+        "bestzip": "^2.1.7"
     },
     "devDependencies": {
         "aws-sdk": "^2.561.0"
