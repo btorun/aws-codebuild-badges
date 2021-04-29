@@ -1,0 +1,17 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: monthly
+    time: "10:00"
+  open-pull-requests-limit: 10
+  reviewers:
+  - btorun
+  assignees:
+  - btorun
+  ignore:
+  - dependency-name: aws-sdk
+    versions:
+    - 2.820.0
+    - 2.834.0
